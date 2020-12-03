@@ -1,0 +1,19 @@
+.navbar-custom{
+    background-color: black !important;
+    height: 90px;
+    font-size: 17px;
+}
+
+.custom-brand{
+    font-size: 30px;
+}
+ul{
+    margin-left: 40%;
+}
+li:hover{
+    background-color: white;
+    border-radius: 10px;
+}
+.nav-link:hover{
+    color: black !important;
+}
